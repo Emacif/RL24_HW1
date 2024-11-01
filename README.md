@@ -7,7 +7,8 @@ git clone https://github.com/Emacif/RL24_HW1.git
 2. Con lo scopo di configurare e costruire tutti i pacchetti presenti nel workspace:
 ```bash 
 colcon build 
-source install/setup.bash 
+source install/setup.bash
+
 
 ## Lancio dei pacchetti: 
 1. Per lanciare arm_description:
